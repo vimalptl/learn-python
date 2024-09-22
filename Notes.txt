@@ -1,0 +1,11 @@
+It has simple, easy-to-learn syntax that emphasizes readability (and therefore reduces the cost of program maintenance).
+It supports modules and packages (which encourages program modularity and code reuse).
+It has an extensive standard library (available in source or binary form without charge for all major platforms).
+
+
+What makes Python good for AI:
+It has a rich set of libraries for data analysis and manipulation, such as Pandas, making it easy to work with the data.
+It has a number of libraries specifically for machine learning, such as TensorFlow and Keras.    
+It has solid scientific and computation libraries, such as scikit-learn and NumPy.
+It can even be used to program microcontrollers with projects like MicroPython, CircuitPython, and Raspberry Pi.
+It can be used for developing large-scale web applications and websites like Django.
